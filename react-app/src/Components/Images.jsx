@@ -12,6 +12,7 @@ export function Images(){
             <video controls style={stylesheet}>
                 <source src="Video1.mp4" ></source>
             </video><br></br> <br></br> 
+            <img src="ImageCar.webp"></img><br></br> <br></br> 
            
 
         </>
