@@ -1,0 +1,9 @@
+{
+    "products":[{
+        "name":"Trousers",
+        "price":"2500"
+    },{
+        "name":"Shirts",
+        "price":"2000"
+    }]
+}

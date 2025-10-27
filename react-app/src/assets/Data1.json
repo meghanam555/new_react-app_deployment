@@ -1,0 +1,11 @@
+{
+    "Items":[{
+        "name":"rice",
+        "price":"5000",
+        "quantity":"1 packet"
+    },{
+        "name":"wheat",
+        "price":"1000",
+        "quantity":"2 packet"
+    }]
+}
